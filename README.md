@@ -2,6 +2,7 @@
 ----------------------------
 
 ***Small Lab API-***</br>
+
 This Small Lab API is based on FastAPI is a modern,fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.Following scenerios have
 been covered in this script:-
 1. A REST API endpoint: GET Enndpoint: To fetch the lab details associated with a particular lab_id.
@@ -26,7 +27,7 @@ GET End Point -  http://127.0.0.1:8000/lab/A1001    OR  http://127.0.0.1:8000/do
    
 POST End Point - Use this URL: http://127.0.0.1:8000/docs
 
-***Unit Testing using PyTest -***
+***IV. Unit Testing using PyTest -***
 
 pytest RestApi_test.py
    
