@@ -1,7 +1,6 @@
 """
 Description: This module reads the data from json files present in data directory
-             and perform different fetch operations based on below scenarios.             
-
+             and perform different fetch operations based on below scenarios.
 Author:     Shivender Khajuria           
 Dated:      25-09-21
 Filename:   read_write_op.py
