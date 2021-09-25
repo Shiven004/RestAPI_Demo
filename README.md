@@ -4,9 +4,9 @@
 ### Small Lab API
 This Small Lab API is based on FastAPI is a modern,fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.Following scenerios have
 been covered in this script:-
-1. A REST API endpoint: GET Enndpoint: To fetch the lab associated with the lab_id.
+1. A REST API endpoint: GET Enndpoint: To fetch the lab details associated with a particular lab_id.
 2. Running POST or PUT to this endpoint runs an asynchronous task. 
-   POST End Point: To add/create patient details.
+   POST End Point: To add/create patient details for a particular test request.
 
 
 ### I. Steps to reporduce-
