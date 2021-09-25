@@ -3,8 +3,6 @@ Description: This module invokes read process to fetch lab data
              and perform different fetch operations based on below scenarios:
                  1. Fetch lab centre data based on lab id
                  2. Generate patient id and associate lab centre booked.
-
-
 Author:     Shivender Khajuria           
 Dated:      25-09-21
 Filename:   fetch_data_op.py
