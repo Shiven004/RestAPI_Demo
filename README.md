@@ -22,7 +22,7 @@ uvicorn main:app --reload
 
 ### III. Validating end points -
 
-GET End Point -  http://127.0.0.1:8000/lab/A1001
+GET End Point -  http://127.0.0.1:8000/lab/A1001    OR  http://127.0.0.1:8000/docs
    
 POST End Point - Use this URL: http://127.0.0.1:8000/docs
 
