@@ -5,7 +5,6 @@ Decription: This utility is based on fastapi FastAPI is a modern,
             Following scenerios have been covered in this script:-
                 1. A REST API endpoint.
                 2. Running POST or PUT to this endpoint runs an asynchronous task.
-
 Author:     Shivender Khajuria           
 Dated:      25-09-21
 Filename:   main.py
