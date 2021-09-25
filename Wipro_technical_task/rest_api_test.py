@@ -1,5 +1,6 @@
 """
-Decription: This is a pytest utility to perform unit testing for Small Lab Rest API functions and data.
+Decription: This is a pytest utility to perform unit testing for Small Lab Rest API functions and data. 
+            Unit test cases added are (+ve, -ve, neutral) in nature.
 Author:     Shivender Khajuria           
 Dated:      26-09-21
 Filename:   rest_api_test.py
