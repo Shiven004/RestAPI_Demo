@@ -18,7 +18,7 @@ been covered in this script:-
 5. pip install -r requirements.txt
 
 ***II. Run command-***</br>
-***italic uvicorn main:app --reload***
+****uvicorn main:app --reload****
 
 
 ***III. Validating end points -***
