@@ -34,7 +34,7 @@ async def read_lab_details(lab_id: str):
             raise HTTPException(status_code=404,detail="Lab details not found...")   
     return {"Lab Centre Details": json_lab_details_list}
 
-#Reqmt_02: To get personal information of two people
+#Reqmt_02: To add/create patient information.
 @app.post("/patient_details/")
 async def create_patient_details(lab_id: str, test_requested: str):
     patient_details = gen_patient_details(lab_id, test_requested)
