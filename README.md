@@ -1,5 +1,5 @@
-# Small Lab API enpoints README
-------------------------------
+# Small Lab REST API README
+----------------------------
 
 ### Small Lab API
 This Small Lab API is based on FastAPI is a modern,fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.Following scenerios have
