@@ -17,8 +17,8 @@ been covered in this script:-
 4. Ensure python version is above 3.7 or later (Python version - 3.8)
 5. pip install -r requirements.txt
 
-***II. Run command-***
-uvicorn main:app --reload
+***II. Run command-***</br>
+***italic uvicorn main:app --reload***
 
 
 ***III. Validating end points -***
