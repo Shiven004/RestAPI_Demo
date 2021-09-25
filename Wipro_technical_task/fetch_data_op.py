@@ -36,11 +36,3 @@ def gen_patient_details(lab_id,test_requested):
         patient_data["Lab_Type"] = item["lab_type"]
         patient_data["Test_Name"] = test_requested     
     return patient_data
-
-
-
-if __name__ == '__main__':
-    #lab_centre_details = fetch_lab_details("ABC123")
-    #print(lab_centre_details)
-    patient_data = gen_patient_details(lab_id="A1001", test_requested="Blood Test")
-    print(patient_data)
