@@ -29,7 +29,7 @@ POST End Point - Use this URL: http://127.0.0.1:8000/docs
 
 ***IV. Unit Testing using PyTest -***
 
-pytest RestApi_test.py
+pytest rest_api_test.py
    
 
    
