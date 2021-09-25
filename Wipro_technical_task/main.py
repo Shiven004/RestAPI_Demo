@@ -1,7 +1,6 @@
 """
-Decription: This utility is based on fastapi FastAPI is a modern, 
-            fast (high-performance), web framework for building APIs with Python 3.6+ 
-            based on standard Python type hints.
+Decription: This utility is based on FastAPI which is a modern,fast (high-performance), 
+            web framework for building APIs with Python 3.6+ based on standard Python type hints.
             Following scenerios have been covered in this script:-
                 1. A REST API endpoint.
                 2. Running POST or PUT to this endpoint runs an asynchronous task.
