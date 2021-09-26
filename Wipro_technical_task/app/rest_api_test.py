@@ -13,7 +13,7 @@ from fetch_data_op import fetch_lab_details, gen_patient_details
 from main import app
 from fastapi.testclient import TestClient
 
-# Tests adapted from `problem-specifications//canonical-data.json`
+# Tests adapted from `problem-specifications/lab_centres.json`
 lab_lst = [{'lab_id': 'A1001', 'index': 1, 'lab_type': 'G', 'email': 'a1001@xyz.com', 'phone': '+1 (123) 567-3630', 
             'address': 'Craigieburn, 3063', 'postal_code': 3063, 'about': 'Craigieburn General Test Lab Centre.\r\n', 
             'registered': '2016-07-13T12:29:07 -10:00', 'tests_available': ['Liver Function Test', 'Blood Test',
