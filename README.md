@@ -11,6 +11,13 @@ been covered in this script:-
    
 ***Running the Rest API on Docker***</br>
 
+***Pre-requisited***</br>
+
+1. Ensure the folder strucure is created similar to the one in github.</br>
+2. Create virtual env using cmd - python -m venv wipro_fastapi_venv </br>
+3. Actiavte virtual env - wipro_fastapi_venv\Scripts\activate </br>
+4. Ensure python version is above 3.7 or later (Python version - 3.8) </br>
+
 ***I. Build the images mentioned in the docker-compose. yml file using the below command:***</br>
 
 docker-compose build
