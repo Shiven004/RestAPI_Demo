@@ -9,15 +9,16 @@ Version:    1.0
 Purpose:    Wipro Tech Test
 
 """
+#Import libraries here.
 import json 
 
-#Global variables
+#Global variables.
 dir_path = '../app/data/'
 filename_lab_data = 'lab_centres.json'
 filename_patient = 'patient_details.json'
 
 
-# Funtion performs read operations on the lab_centres.json
+# Funtion performs read operations on the lab_centres.json.
 def read_lab_details():
     print("Performing read operation - input order details now....")
     #Orders details json deserialize operation.
