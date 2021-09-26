@@ -16,6 +16,11 @@ from read_write_op import read_lab_details
 import random
 from read_write_op import read_lab_details
 
+"""
+Function :fetch_lab_details
+Purpose: This function fetches lab centre data based on lab id.
+Return: lab_centre_details in the form of list.
+"""
 def fetch_lab_details(lab_id):    
     lab_centre_details = []
     lab_data = read_lab_details()
@@ -23,7 +28,12 @@ def fetch_lab_details(lab_id):
         if lab['lab_id'] == lab_id:
             lab_centre_details.append(lab)
     return lab_centre_details
-
+  
+"""
+Function :gen_patient_details 
+Purpose: This function generates patient details requesting a test.
+Return: patient details in the form of dictionary.
+"""
 def gen_patient_details(lab_id,test_requested):
     lab_centre_details = fetch_lab_details(lab_id)    
     patient_data = {}
