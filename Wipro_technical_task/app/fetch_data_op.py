@@ -12,6 +12,8 @@ Version:    1.0
 Purpose:    Wipro Tech Test
 
 """
+
+# Import libraries here.
 from read_write_op import read_lab_details
 import random
 from read_write_op import read_lab_details
