@@ -1,0 +1,41 @@
+{
+    "Patient_ID": "PAT_A1001_3700",
+    "Lab_ID": "A1001",
+    "Lab_Type": "G",
+    "Test_Name": "Blood Test"
+}{
+    "Patient_ID": "PAT_A1001_5886",
+    "Lab_ID": "A1001",
+    "Lab_Type": "G",
+    "Test_Name": "Blood Test"
+}{
+    "Patient_ID": "PAT_A1001_4490",
+    "Lab_ID": "A1001",
+    "Lab_Type": "G",
+    "Test_Name": "Blood Test"
+}{
+    "Patient_ID": "PAT_A1000_8264",
+    "Lab_ID": "A1000",
+    "Lab_Type": "C",
+    "Test_Name": "RT_PCR Test"
+}{
+    "Patient_ID": "PAT_A1004_2667",
+    "Lab_ID": "A1004",
+    "Lab_Type": "C",
+    "Test_Name": "RT-PCR Test"
+}{
+    "Patient_ID": "PAT_A1001_6391",
+    "Lab_ID": "A1001",
+    "Lab_Type": "G",
+    "Test_Name": "RAT Test"
+}{
+    "Patient_ID": "PAT_A1004_4023",
+    "Lab_ID": "A1004",
+    "Lab_Type": "C",
+    "Test_Name": "RAT Test"
+}{
+    "Patient_ID": "PAT_A1004_6601",
+    "Lab_ID": "A1004",
+    "Lab_Type": "C",
+    "Test_Name": "RAT Test"
+}

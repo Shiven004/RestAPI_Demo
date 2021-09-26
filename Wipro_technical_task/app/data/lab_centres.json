@@ -1,0 +1,84 @@
+[
+  {
+    "lab_id": "A1000",
+    "index": 0,
+    "lab_type": "C",	
+    "email": "a1000@xyz.com",
+    "phone": "+1 (123) 567-3630",
+    "address": "Mickleham, 3064",
+    "postal_code": 3064,
+    "about": "Mickleham Covid Test Centre.\r\n",
+    "registered": "2016-07-13T12:29:07 -10:00",	
+    "tests_available": [
+      "RT-PCR Test",
+      "Rapid-Antigen Test",
+	    "Covid Anti-bodies Test"   
+    ]    
+  },
+  {
+    "lab_id": "A1001",
+    "index": 1,
+    "lab_type": "G",
+    "email": "a1001@xyz.com",
+    "phone": "+1 (123) 567-3630",
+    "address": "Craigieburn, 3063",
+    "postal_code": 3063,
+    "about": "Craigieburn General Test Lab Centre.\r\n",
+    "registered": "2016-07-13T12:29:07 -10:00",	
+	  "tests_available": [ 
+      "Liver Function Test",
+      "Blood Test",
+      "TSH Thyroid Test",
+      "Random Blood Sugar Test" 	  
+    ]    
+  },
+  {
+    "lab_id": "A1002",
+    "index": 2,
+    "lab_type": "C",	
+    "email": "a1002@xyz.com",
+    "phone": "+1 (123) 567-3630",
+    "address": "South Yaara, 3141",
+    "postal_code": 3041,
+    "about": "South Yaara Covid-19 Test Centre.\r\n",
+    "registered": "2016-07-13T12:29:07 -10:00",	
+	  "tests_available": [
+      "RT-PCR Test",
+      "Rapid-Antigen Test",
+	    "Covid Anti-bodies Test"   
+    ]    
+  },
+  {
+    "lab_id": "A1003",
+    "index": 3,
+    "lab_type": "G",	
+    "email": "a1003@xyz.com",
+    "phone": "+1 (121) 567-3630",
+    "address": "Boronia, 3155",
+    "postal_code": 3155,
+    "about": "Boronia General Test Lab Centre.\r\n",
+    "registered": "2016-07-13T12:29:07 -10:00",	
+	  "tests_available": [ 
+      "Liver Function Test",
+      "Blood Test",
+      "TSH Thyroid Test",
+      "Random Blood Sugar Test"
+    ]        
+  },
+  {
+    "lab_id": "A1004",
+    "index": 4,
+    "lab_type": "C",	
+    "email": "a1004@xyz.com",
+    "phone": "+1 (123) 567-3630",
+    "address": "Melbourne CBD, 3000",
+    "postal_code": 3000,
+    "about": "Melbourne CBD Covid-19 Test Centre.\r\n",
+    "registered": "2016-07-13T12:29:07 -10:00",	
+	  "tests_available": [
+      "RT-PCR Test",
+      "Rapid-Antigen Test",
+	    "Covid Anti-bodies Test"   
+    ]    
+  } 
+]
