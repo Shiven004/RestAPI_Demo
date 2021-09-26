@@ -28,7 +28,7 @@ docker-compose up -d
 
 ***III. Validating end points -***</br>
 
-FASTAPI provides Interactive API docs to validate the endpoints.Please enter lab related details to get the relevant details.
+FASTAPI provides Interactive API docs to validate the endpoints.Please enter lab related data to get the correct details.
 
 GET End Point -  http://127.0.0.1:8000/docs
    
@@ -57,7 +57,7 @@ pytest rest_api_test.py
 
 ***III. Validating end points -***
 
-FASTAPI provides Interactive API docs to validate the endpoints.Please enter lab related details to get the relevant details.
+FASTAPI provides Interactive API docs to validate the endpoints.Please enter lab related data to get the correct details.
 
 GET End Point -  http://127.0.0.1:8000/lab/A1001    OR  http://127.0.0.1:8000/docs
    
