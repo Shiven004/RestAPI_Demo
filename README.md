@@ -52,11 +52,11 @@ pytest rest_api_test.py
 2. Create virtual env  using cmd - python -m venv wipro_fastapi_venv
 3. Actiavte virtual env - wipro_fastapi_venv\Scripts\activate
 4. Ensure python version is above 3.7 or later (Python version - 3.8)
-5. pip install -r requirements.txt
+5. pip install -r requirements.txt (Navigate to the root directory where requirements.txt file is located and execute the mentioned command) </br>
 
 ***II. Run command-***</br>
-
-***python main.py***
+***Important: Navigate to the app directory where main.py file is located and execute the below command:***</br>
+python main.py
 
 ***III. Validating end points -***
 
