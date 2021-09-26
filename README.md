@@ -8,8 +8,24 @@ been covered in this script:-
 1. A REST API endpoint: GET Enndpoint: To fetch the lab details associated with a particular lab_id.
 2. Running POST or PUT to this endpoint runs an asynchronous task. 
    POST End Point: To add/create patient details for a particular test request.
+   
+***Running on Docker***</br>
 
+***I. Build the images in the docker-compose. yml file using below command.***</br>
 
+docker-compose build
+
+***II. Run the docker image***</br>
+
+docker-compose up -d
+
+***III. Validating end points -***</br>
+
+GET End Point -  http://127.0.0.1:8000/docs
+   
+POST End Point - http://127.0.0.1:8000/docs
+
+***Running locally***
 ***I. Steps to reporduce-***
 1. Ensure the folder strucure is created similar to the one in github.
 2. Create virtual env  using cmd - python -m venv wipro_fastapi_venv
