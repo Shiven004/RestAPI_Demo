@@ -56,7 +56,7 @@ pytest rest_api_test.py
 
 ***II. Run command-***</br>
 
-***python main.py
+***python main.py***
 
 ***III. Validating end points -***
 
