@@ -25,7 +25,8 @@ GET End Point -  http://127.0.0.1:8000/docs
    
 POST End Point - http://127.0.0.1:8000/docs
 
-***Running locally***
+***Running locally***</br>
+
 ***I. Steps to reporduce-***
 1. Ensure the folder strucure is created similar to the one in github.
 2. Create virtual env  using cmd - python -m venv wipro_fastapi_venv
