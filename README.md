@@ -30,9 +30,13 @@ docker-compose up -d
 
 FASTAPI provides Interactive API docs to validate the endpoints.Please enter lab related data to get the correct details.
 
-GET End Point -  http://127.0.0.1:8000/docs
+GET End Point -  http://127.0.0.1:8000/docs </br>
+
+***Example:*** Enter lab_id = "A1001" to fetch the lab centre data.
    
-POST End Point - http://127.0.0.1:8000/docs
+POST End Point - http://127.0.0.1:8000/docs </br>
+
+***Example:*** Enter lab_id = "A1001" and test_requested = "RT-PCR Test" to add/create patient details.
 
 ***IV. Unit Testing using PyTest -***</br>
 
@@ -54,14 +58,17 @@ pytest rest_api_test.py
 
 ***python main.py
 
-
 ***III. Validating end points -***
 
 FASTAPI provides Interactive API docs to validate the endpoints.Please enter lab related data to get the correct details.
 
-GET End Point -  http://127.0.0.1:8000/lab/A1001    OR  http://127.0.0.1:8000/docs
+GET End Point -  http://127.0.0.1:8000/lab/A1001    OR  http://127.0.0.1:8000/docs </br>
+
+***Example:*** Enter lab_id = "A1001" to fetch the lab centre data.
    
-POST End Point - Use this URL: http://127.0.0.1:8000/docs
+POST End Point - Use this URL: http://127.0.0.1:8000/docs </br>
+
+***Example:*** Enter lab_id = "A1001" and test_requested = "RT-PCR Test" to add/create patient details.
 
 ***IV. Unit Testing using PyTest -***
 
