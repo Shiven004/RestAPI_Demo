@@ -32,6 +32,12 @@ GET End Point -  http://127.0.0.1:8000/docs
    
 POST End Point - http://127.0.0.1:8000/docs
 
+***IV. Unit Testing using PyTest -***</br>
+
+***Run the below command in Docker CLI associated with the image:***</br>
+
+pytest rest_api_test.py
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ***Running the Rest API locally***</br>
 
