@@ -11,7 +11,7 @@ been covered in this script:-
    
 ***Running the Rest API on Docker***</br>
 
-***Pre-requisited***</br>
+***Pre-requisites***</br>
 
 1. Ensure the folder strucure is created similar to the one in github.</br>
 2. Create virtual env using cmd - python -m venv wipro_fastapi_venv </br>
