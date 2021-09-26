@@ -15,8 +15,8 @@ been covered in this script:-
 
 1. Ensure the folder strucure is created similar to the one in github.</br>
 2. Create virtual env using cmd - python -m venv wipro_fastapi_venv </br>
-3. Actiavte virtual env - wipro_fastapi_venv\Scripts\activate </br>
-4. Ensure python version is above 3.7 or later (Python version - 3.8) </br>
+3. Actiavte virtual env - wipro_fastapi_venv\Scripts\activate. </br>
+4. Ensure python version is above 3.7 or later (Python version - 3.8). </br>
 
 ***I. Build the images mentioned in the docker-compose. yml file using the below command:***</br>
 
@@ -49,10 +49,10 @@ pytest rest_api_test.py
 
 ***I. Steps to reporduce-***
 1. Ensure the folder strucure is created similar to the one in github.
-2. Create virtual env  using cmd - python -m venv wipro_fastapi_venv
-3. Actiavte virtual env - wipro_fastapi_venv\Scripts\activate
-4. Ensure python version is above 3.7 or later (Python version - 3.8)
-5. pip install -r requirements.txt (Navigate to the root directory where requirements.txt file is located and execute the mentioned command) </br>
+2. Create virtual env  using cmd - python -m venv wipro_fastapi_venv.
+3. Actiavte virtual env - wipro_fastapi_venv\Scripts\activate.
+4. Ensure python version is above 3.7 or later (Python version - 3.7 or above).
+5. Run the cmd : ***pip install -r requirements.txt*** (Navigate to the root directory where requirements.txt file is located and execute the mentioned command) </br>
 
 ***II. Run command-***</br>
 ***Important: Navigate to the app directory where main.py file is located and execute the below command:***</br>
