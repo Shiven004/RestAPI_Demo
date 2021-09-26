@@ -11,11 +11,11 @@ been covered in this script:-
    
 ***Running on Docker***</br>
 
-***I. Build the images in the docker-compose. yml file using below command.***</br>
+***I. Build the images mentioned in the docker-compose. yml file using the below command:***</br>
 
 docker-compose build
 
-***II. Run the docker image***</br>
+***II. Start the docker container using the below command:***</br>
 
 docker-compose up -d
 
