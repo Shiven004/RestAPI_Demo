@@ -1,0 +1,18 @@
+1)	Publish in GIT hub , ensure 
+
+a.	unit test cases are added  (+ve, -ve, neutral) 
+b.	readme file with all details (steps to execute) 
+c.	variable naming convention as per std. 
+d.	code review is done already 
+
+Assignment 
+To be considered for the position, please build a small laboratory.  It should include
+•	A REST API endpoint
+•	Running POST or PUT to this endpoint runs an asynchronous task.
+Once finished, compress your code into a zip file and send it to us.
+
+Deliverable should include code for the above, Dockerfile and docker-compose.yml 
+files which we will use to rebuild the laboratory on our end.  
+We will be running and verifying the solution ourselves before 
+agreeing to an interview for you to present the solution. 
+We will have a few questions for you after you have presented this solution to us.
