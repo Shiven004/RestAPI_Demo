@@ -9,7 +9,7 @@ been covered in this script:-
 2. Running POST or PUT to this endpoint runs an asynchronous task. 
    POST End Point: To add/create patient details for a particular test request.
    
-***Running on Docker***</br>
+***Running the Rest API on Docker***</br>
 
 ***I. Build the images mentioned in the docker-compose. yml file using the below command:***</br>
 
@@ -25,7 +25,8 @@ GET End Point -  http://127.0.0.1:8000/docs
    
 POST End Point - http://127.0.0.1:8000/docs
 
-***Running locally***</br>
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+***Running the Rest API locally***</br>
 
 ***I. Steps to reporduce-***
 1. Ensure the folder strucure is created similar to the one in github.
